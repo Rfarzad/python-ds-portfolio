@@ -1,8 +1,8 @@
-# python-ds-portfolio
+# python-portfolio
 
 ## Description
-Portfolio of my Python skills for data science; reproducible environment (requirements.txt), figures, and an HTML preview for quick review.
+Portfolio of my skills in Python;
 
-## Demo & Notebooks
+## Notebooks
 - ▶️ **Main Notebook:** `My_Python_Portfolio.ipynb`
 
